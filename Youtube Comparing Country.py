@@ -13,7 +13,7 @@ pd.set_option('display.max_rows', 100)
 pd.set_option('display.width', 500)
 pd.set_option('display.float_format', lambda x: '%.3f' % x)
 
-API_KEY = 'AIzaSyDiBwDE5CWvaD2wWj3MNmiw8loGMknm9eQ'
+API_KEY = 'Your API_KEY'
 
 
 #### READING DATA AND EXPLORATORY DATA ANALYSIS
